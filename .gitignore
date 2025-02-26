@@ -1,1 +1,7 @@
-.DS_Store
+.sass-cache/
+resources/**/*.map
+
+docs/*
+
+# MacOS specific
+**/.DS_Store
